@@ -9,7 +9,8 @@ The data covers 12 different stocks over two years.  Each stock has a set of dat
 
 ## Results
 ### Analysis
-Using images and examples of your code, compare the stock performance between 2017 and 2018,
+
+The results between 2017 and 2018 show a stark difference between stock performance.  Specifically, 2017 yielded much better returns than 2018.  2018 had mostly negative returns with the exception of stock tickers "ENPH" and "RUN".
 
     Sub AllStocksAnalysisRefactored()
     Dim startTime As Single
